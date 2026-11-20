@@ -1,0 +1,46 @@
+{
+ "https://news.mit.edu/topic/mitrobotics-rss.xml": {
+  "etag": "\"1795177533\"",
+  "modified": "Fri, 20 Nov 2026 12:25:33 GMT"
+ },
+ "https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml": {
+  "etag": "\"1795177499\"",
+  "modified": "Fri, 20 Nov 2026 12:24:59 GMT"
+ },
+ "https://news.mit.edu/rss/school/engineering": {
+  "etag": "\"1795177521\"",
+  "modified": "Fri, 20 Nov 2026 12:25:21 GMT"
+ },
+ "https://news.mit.edu/rss/research": {
+  "etag": "\"1795178286\"",
+  "modified": "Fri, 20 Nov 2026 12:38:06 GMT"
+ },
+ "https://www.nist.gov/news-events/news/rss.xml": {
+  "etag": "\"1795177862-gzip\"",
+  "modified": "Fri, 20 Nov 2026 12:31:02 GMT"
+ },
+ "https://www.nasa.gov/technology/feed/": {
+  "etag": "W/\"b3aa215d696b68c3141275d008bb6436\"",
+  "modified": "Fri, 20 Nov 2026 11:39:57 GMT"
+ },
+ "https://www.eso.org/public/news/feed/": {
+  "etag": "W/\"46d7c84878a5af2337591e425cfd3949\"",
+  "modified": "Tue, 27 Oct 2026 13:00:00 GMT"
+ },
+ "https://www.nsf.gov/rss/rss_www_news.xml": {
+  "etag": "\"1795158519-gzip\"",
+  "modified": "Fri, 20 Nov 2026 07:08:39 GMT"
+ },
+ "https://www.usgs.gov/news/all/feed": {
+  "etag": "\"1795178520-gzip\"",
+  "modified": "Fri, 20 Nov 2026 12:42:00 GMT"
+ },
+ "https://theconversation.com/global/topics/science-98/articles.atom": {},
+ "https://theconversation.com/us/technology/articles.atom": {},
+ "https://ourworldindata.org/atom.xml": {
+  "etag": "W/\"ed20b81c9d8b75389ae3f81751e208f2\""
+ },
+ "https://reasonstobecheerful.world/feed/": {
+  "modified": "Fri, 20 Nov 2026 08:00:05 GMT"
+ }
+}

@@ -1,0 +1,178 @@
+{
+  "userAgent": "mhp-brain-teaser-news/1.0 (+https://afreeentity.github.io/mhp-brain-teaser/)",
+  "maxAgeDays": 30,
+  "perSource": 10,
+  "maxItems": 160,
+  "topics": [
+    {
+      "id": "science",
+      "name": "Science"
+    },
+    {
+      "id": "tech",
+      "name": "Engineering & tech"
+    },
+    {
+      "id": "robotics",
+      "name": "Robotics"
+    },
+    {
+      "id": "ai",
+      "name": "AI"
+    },
+    {
+      "id": "space",
+      "name": "Space"
+    },
+    {
+      "id": "good",
+      "name": "Progress & good news"
+    }
+  ],
+  "skipWords": [
+    "war",
+    "wars",
+    "killed",
+    "kills",
+    "killing",
+    "murder",
+    "murdered",
+    "shooting",
+    "massacre",
+    "terrorist",
+    "terrorism",
+    "suicide",
+    "rape",
+    "sexual assault",
+    "lawsuit",
+    "sues",
+    "sued",
+    "scandal",
+    "genocide",
+    "missile",
+    "bombing",
+    "hostage",
+    "airstrike",
+    "layoffs"
+  ],
+  "sources": [
+    {
+      "id": "mit",
+      "name": "MIT News",
+      "site": "https://news.mit.edu/",
+      "topic": "robotics",
+      "feed": "https://news.mit.edu/topic/mitrobotics-rss.xml",
+      "max": 8
+    },
+    {
+      "id": "mit",
+      "name": "MIT News",
+      "site": "https://news.mit.edu/",
+      "topic": "ai",
+      "feed": "https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml",
+      "max": 8
+    },
+    {
+      "id": "mit",
+      "name": "MIT News",
+      "site": "https://news.mit.edu/",
+      "topic": "tech",
+      "feed": "https://news.mit.edu/rss/school/engineering",
+      "max": 6
+    },
+    {
+      "id": "mit",
+      "name": "MIT News",
+      "site": "https://news.mit.edu/",
+      "topic": "science",
+      "feed": "https://news.mit.edu/rss/research",
+      "max": 6
+    },
+    {
+      "id": "nist",
+      "name": "NIST",
+      "site": "https://www.nist.gov/",
+      "topic": "tech",
+      "feed": "https://www.nist.gov/news-events/news/rss.xml",
+      "max": 8
+    },
+    {
+      "id": "nasa",
+      "name": "NASA",
+      "site": "https://www.nasa.gov/",
+      "topic": "space",
+      "feed": "https://www.nasa.gov/technology/feed/",
+      "max": 8
+    },
+    {
+      "id": "eso",
+      "name": "ESO",
+      "site": "https://www.eso.org/public/",
+      "topic": "space",
+      "feed": "https://www.eso.org/public/news/feed/",
+      "max": 4,
+      "maxAgeDays": 75
+    },
+    {
+      "id": "nsf",
+      "name": "NSF",
+      "site": "https://www.nsf.gov/",
+      "topic": "science",
+      "feed": "https://www.nsf.gov/rss/rss_www_news.xml",
+      "max": 6,
+      "maxAgeDays": 75
+    },
+    {
+      "id": "usgs",
+      "name": "USGS",
+      "site": "https://www.usgs.gov/",
+      "topic": "science",
+      "feed": "https://www.usgs.gov/news/all/feed",
+      "max": 6
+    },
+    {
+      "id": "conversation",
+      "name": "The Conversation",
+      "site": "https://theconversation.com/",
+      "topic": "science",
+      "feed": "https://theconversation.com/global/topics/science-98/articles.atom",
+      "max": 8
+    },
+    {
+      "id": "conversation",
+      "name": "The Conversation",
+      "site": "https://theconversation.com/",
+      "topic": "tech",
+      "feed": "https://theconversation.com/us/technology/articles.atom",
+      "max": 8
+    },
+    {
+      "id": "owid",
+      "name": "Our World in Data",
+      "site": "https://ourworldindata.org/",
+      "topic": "good",
+      "feed": "https://ourworldindata.org/atom.xml",
+      "max": 8,
+      "maxAgeDays": 75
+    },
+    {
+      "id": "rtbc",
+      "name": "Reasons to be Cheerful",
+      "site": "https://reasonstobecheerful.world/",
+      "topic": "good",
+      "feed": "https://reasonstobecheerful.world/feed/",
+      "max": 10
+    }
+  ],
+  "licences": {
+    "mit": "MIT News terms of use: RSS feeds offered for syndication; cite MIT News with a link to the story",
+    "nist": "US government, public information",
+    "nasa": "US government, generally not subject to copyright; credit NASA",
+    "eso": "CC BY 4.0; credit ESO",
+    "nsf": "US government, public domain",
+    "usgs": "US government, public domain",
+    "conversation": "CC BY-ND; extracts with a link back are permitted by its republishing guidelines",
+    "owid": "CC BY",
+    "rtbc": "Creative Commons (variant not named); credit and link back"
+  }
+}
