@@ -1,0 +1,17 @@
+Copyright © 2026 MHP Solutions. All rights reserved.
+
+This repository holds the public website of the MHP Brain Teaser app. Its pages, text, design,
+graphics, logo and code are the property of MHP Solutions. No part may be copied, modified,
+distributed or used without prior written permission from MHP Solutions.
+
+This is not an open-source licence. The repository is public so that the website can be served and
+read; that does not grant any right to reuse its contents.
+
+News headlines
+The files under news/ contain headlines, short excerpts and links gathered from other publishers.
+They remain the property of those publishers and are used under the terms noted for each source in
+news/sources.json. The copyright statement above does not apply to them.
+
+"MHP Brain Teaser" and the MHP seal are marks of MHP Solutions.
+
+Contact: entity.gdev@pm.me
